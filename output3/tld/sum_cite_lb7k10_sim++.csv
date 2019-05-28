@@ -1,0 +1,37 @@
+id matchTime enumTime joinTime totTime numSoln solnNodes numNodesBefore numNodesAfter answerGraphSize
+0 .07 .00 .00 .07 48 50 5,473 50 99
+1 .11 .00 .00 .11 15,288 253 10,871 253 505
+2 .01 .00 .00 .01 324 169 10,178 169 496
+3 .06 .00 .00 .06 215 114 9,131 114 332
+4 .01 .00 .00 .01 401 109 7,695 109 514
+5 .01 .00 .00 .01 61 63 6,248 63 125
+6 .29 .00 .00 .29 282 158 8,715 158 442
+7 .09 .00 .00 .09 1,288 137 9,793 137 1,440
+8 .07 .00 .00 .07 292 104 9,596 104 399
+9 .03 .00 .00 .03 392 203 8,697 203 597
+Average running time: 
+[q0 matchTime:.07 enumTime:.00 joinTime:.00 totTime:.07]
+[q1 matchTime:.11 enumTime:.00 joinTime:.00 totTime:.11]
+[q2 matchTime:.01 enumTime:.00 joinTime:.00 totTime:.01]
+[q3 matchTime:.06 enumTime:.00 joinTime:.00 totTime:.06]
+[q4 matchTime:.01 enumTime:.00 joinTime:.00 totTime:.01]
+[q5 matchTime:.01 enumTime:.00 joinTime:.00 totTime:.01]
+[q6 matchTime:.29 enumTime:.00 joinTime:.00 totTime:.29]
+[q7 matchTime:.09 enumTime:.00 joinTime:.00 totTime:.09]
+[q8 matchTime:.07 enumTime:.00 joinTime:.00 totTime:.07]
+[q9 matchTime:.03 enumTime:.00 joinTime:.00 totTime:.03]
+Data loading Time:24.30
+Index building Time:10.20
+Average Eval Time per run:.74
+Average Eval Time per query:.07
+Average Matching Time per run:.74
+Average Matching Time per query:.07
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:8639.70
+Average Nodes after per query:136.00
+Average Soln nodes per query:136.00
+Average Size of query answer graph:494.90
+Average number of solution tuples per query:1859.10
+Average Size of solution tuples per query:9667.32
+Max Used Memory:3276.00 MB

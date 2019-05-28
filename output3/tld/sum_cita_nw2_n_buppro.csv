@@ -1,0 +1,37 @@
+id matchTime enumTime joinTime totTime numSoln solnNodes numNodesBefore numNodesAfter answerGraphSize
+0 .50 .00 .00 .50 10 0 0 0 197,096
+1 .74 .00 .00 .74 930 0 0 0 405,258
+2 862.85 .00 .00 862.85 108 0 0 0 1,702,809
+3 608.37 .00 .00 608.37 352,547,524,800 0 0 0 3,924,311
+4 10.40 .00 .00 10.40 255,816 0 0 0 596,546
+5 4612.11 .00 .00 4612.11 6,882,388,880,640 0 0 0 6,267,772
+6 1621.23 .00 .00 1621.23 88,051 0 0 0 1,912,702
+7 21.57 .00 .00 21.57 11,784,410,550 0 0 0 208,143
+8 671.08 .00 .00 671.08 496,216,153,854 0 0 0 998,361
+9 6260.03 .00 .00 6260.03 135,026,483,096,178,240 0 0 0 7,542,945
+Average running time: 
+[q0 matchTime:.50 enumTime:.00 joinTime:.00 totTime:.50]
+[q1 matchTime:.74 enumTime:.00 joinTime:.00 totTime:.74]
+[q2 matchTime:862.85 enumTime:.00 joinTime:.00 totTime:862.85]
+[q3 matchTime:608.37 enumTime:.00 joinTime:.00 totTime:608.37]
+[q4 matchTime:10.40 enumTime:.00 joinTime:.00 totTime:10.40]
+[q5 matchTime:4612.11 enumTime:.00 joinTime:.00 totTime:4612.11]
+[q6 matchTime:1621.23 enumTime:.00 joinTime:.00 totTime:1621.23]
+[q7 matchTime:21.57 enumTime:.00 joinTime:.00 totTime:21.57]
+[q8 matchTime:671.08 enumTime:.00 joinTime:.00 totTime:671.08]
+[q9 matchTime:6260.03 enumTime:.00 joinTime:.00 totTime:6260.03]
+Data loading Time:4.83
+Index building Time:1.79
+Average Eval Time per run:14668.90
+Average Eval Time per query:1466.89
+Average Matching Time per run:14668.90
+Average Matching Time per query:1466.89
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:.00
+Average Nodes after per query:.00
+Average Soln nodes per query:.00
+Average Size of query answer graph:2375594.30
+Average number of solution tuples per query:13503422603349300.00
+Average Size of solution tuples per query:.00
+Max Used Memory:3255.00 MB
