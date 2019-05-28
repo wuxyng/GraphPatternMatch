@@ -1,0 +1,400 @@
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb10k.lg
+V:6540401 E:15011260 lbs:8343
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb10k10.qry
+Algorithm:TwigStackD-SSPI-MJ-FLT
+Run 1:
+[q0 matchTime:998.94 enumTime:.00 joinTime:.00 totTime:998.95 numSolns:608,729 solnNodes:0 numNodes before:5,796 numNodes after:306]
+[q1 matchTime:1194.97 enumTime:.00 joinTime:.00 totTime:1194.97 numSolns:954,340 solnNodes:0 numNodes before:6,377 numNodes after:365]
+[q2 matchTime:14.38 enumTime:.00 joinTime:.00 totTime:14.38 numSolns:2 solnNodes:0 numNodes before:11,664 numNodes after:141]
+[q3 matchTime:297.22 enumTime:.00 joinTime:.00 totTime:297.22 numSolns:106,709 solnNodes:0 numNodes before:3,534 numNodes after:209]
+[q4 matchTime:19.47 enumTime:.00 joinTime:.00 totTime:19.47 numSolns:13,447 solnNodes:0 numNodes before:7,657 numNodes after:187]
+[q5 matchTime:280.79 enumTime:.00 joinTime:.00 totTime:280.79 numSolns:309,628 solnNodes:0 numNodes before:5,711 numNodes after:273]
+[q6 matchTime:1037.43 enumTime:.00 joinTime:.00 totTime:1037.43 numSolns:795,590 solnNodes:0 numNodes before:5,375 numNodes after:344]
+[q7 matchTime:18.12 enumTime:.00 joinTime:.00 totTime:18.12 numSolns:522,032 solnNodes:0 numNodes before:8,505 numNodes after:174]
+[q8 matchTime:445.38 enumTime:.00 joinTime:.00 totTime:445.38 numSolns:493,910 solnNodes:0 numNodes before:5,330 numNodes after:300]
+[q9 matchTime:530.30 enumTime:.00 joinTime:.00 totTime:530.30 numSolns:146,377 solnNodes:0 numNodes before:4,327 numNodes after:250]
+Average running time: 
+[q0 matchTime:998.94 enumTime:.00 joinTime:.00 totTime:998.95]
+[q1 matchTime:1194.97 enumTime:.00 joinTime:.00 totTime:1194.97]
+[q2 matchTime:14.38 enumTime:.00 joinTime:.00 totTime:14.38]
+[q3 matchTime:297.22 enumTime:.00 joinTime:.00 totTime:297.22]
+[q4 matchTime:19.47 enumTime:.00 joinTime:.00 totTime:19.47]
+[q5 matchTime:280.79 enumTime:.00 joinTime:.00 totTime:280.79]
+[q6 matchTime:1037.43 enumTime:.00 joinTime:.00 totTime:1037.43]
+[q7 matchTime:18.12 enumTime:.00 joinTime:.00 totTime:18.12]
+[q8 matchTime:445.38 enumTime:.00 joinTime:.00 totTime:445.38]
+[q9 matchTime:530.30 enumTime:.00 joinTime:.00 totTime:530.30]
+Data loading Time:36.67
+Index building Time:4.93
+Average Eval Time per run:4837.02
+Average Eval Time per query:483.70
+Average Matching Time per run:4837.02
+Average Matching Time per query:483.70
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:6427.60
+Average Nodes after per query:254.90
+Average Soln nodes per query:.00
+Max Used Memory:7190.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb8k.lg
+V:6540401 E:15011260 lbs:6124
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb8k10.qry
+Algorithm:TwigStackD-SSPI-MJ-FLT
+Run 1:
+[q0 matchTime:1466.84 enumTime:.00 joinTime:.00 totTime:1466.84 numSolns:1,199,090 solnNodes:0 numNodes before:7,300 numNodes after:436]
+[q1 matchTime:1512.77 enumTime:.00 joinTime:.00 totTime:1512.77 numSolns:498,294 solnNodes:0 numNodes before:6,725 numNodes after:412]
+[q2 matchTime:149.81 enumTime:.00 joinTime:.00 totTime:149.81 numSolns:26,518 solnNodes:0 numNodes before:8,557 numNodes after:331]
+[q3 matchTime:1550.00 enumTime:.00 joinTime:.00 totTime:1550.00 numSolns:1,391,235 solnNodes:0 numNodes before:8,109 numNodes after:464]
+[q4 matchTime:276.43 enumTime:.00 joinTime:.00 totTime:276.43 numSolns:5,803 solnNodes:0 numNodes before:7,809 numNodes after:236]
+[q5 matchTime:466.01 enumTime:.00 joinTime:.00 totTime:466.01 numSolns:363,911 solnNodes:0 numNodes before:5,299 numNodes after:245]
+[q6 matchTime:635.32 enumTime:.00 joinTime:.00 totTime:635.32 numSolns:285,903 solnNodes:0 numNodes before:5,125 numNodes after:286]
+[q7 matchTime:2058.92 enumTime:.00 joinTime:.00 totTime:2058.92 numSolns:3,501,280 solnNodes:0 numNodes before:9,409 numNodes after:556]
+[q8 matchTime:442.02 enumTime:.00 joinTime:.00 totTime:442.02 numSolns:283,470 solnNodes:0 numNodes before:5,247 numNodes after:280]
+[q9 matchTime:2108.97 enumTime:.00 joinTime:.00 totTime:2108.97 numSolns:3,088,230 solnNodes:0 numNodes before:9,465 numNodes after:535]
+Average running time: 
+[q0 matchTime:1466.84 enumTime:.00 joinTime:.00 totTime:1466.84]
+[q1 matchTime:1512.77 enumTime:.00 joinTime:.00 totTime:1512.77]
+[q2 matchTime:149.81 enumTime:.00 joinTime:.00 totTime:149.81]
+[q3 matchTime:1550.00 enumTime:.00 joinTime:.00 totTime:1550.00]
+[q4 matchTime:276.43 enumTime:.00 joinTime:.00 totTime:276.43]
+[q5 matchTime:466.01 enumTime:.00 joinTime:.00 totTime:466.01]
+[q6 matchTime:635.32 enumTime:.00 joinTime:.00 totTime:635.32]
+[q7 matchTime:2058.92 enumTime:.00 joinTime:.00 totTime:2058.92]
+[q8 matchTime:442.02 enumTime:.00 joinTime:.00 totTime:442.02]
+[q9 matchTime:2108.97 enumTime:.00 joinTime:.00 totTime:2108.97]
+Data loading Time:36.52
+Index building Time:4.24
+Average Eval Time per run:10667.09
+Average Eval Time per query:1066.71
+Average Matching Time per run:10667.09
+Average Matching Time per query:1066.71
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:7304.50
+Average Nodes after per query:378.10
+Average Soln nodes per query:.00
+Max Used Memory:8049.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb7k.lg
+V:6540401 E:15011260 lbs:5662
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb7k10.qry
+Algorithm:TwigStackD-SSPI-MJ-FLT
+Run 1:
+[q0 matchTime:282.80 enumTime:.00 joinTime:.00 totTime:282.80 numSolns:223,006 solnNodes:0 numNodes before:5,473 numNodes after:249]
+[q1 matchTime:25.82 enumTime:.00 joinTime:.00 totTime:25.82 numSolns:145,520 solnNodes:0 numNodes before:10,871 numNodes after:289]
+[q2 matchTime:2232.44 enumTime:.00 joinTime:.00 totTime:2232.44 numSolns:2,771,863 solnNodes:0 numNodes before:10,178 numNodes after:556]
+[q3 matchTime:2382.29 enumTime:.00 joinTime:.00 totTime:2382.29 numSolns:2,839,700 solnNodes:0 numNodes before:9,131 numNodes after:545]
+[q4 matchTime:1543.37 enumTime:.00 joinTime:.00 totTime:1543.37 numSolns:1,425,144 solnNodes:0 numNodes before:7,695 numNodes after:428]
+[q5 matchTime:700.25 enumTime:.00 joinTime:.00 totTime:700.25 numSolns:612,668 solnNodes:0 numNodes before:6,248 numNodes after:304]
+[q6 matchTime:1819.76 enumTime:.00 joinTime:.00 totTime:1819.76 numSolns:2,322,562 solnNodes:0 numNodes before:8,715 numNodes after:508]
+[q7 matchTime:3168.84 enumTime:.00 joinTime:.00 totTime:3168.84 numSolns:3,544,390 solnNodes:0 numNodes before:9,793 numNodes after:609]
+[q8 matchTime:2171.01 enumTime:.00 joinTime:.00 totTime:2171.01 numSolns:2,525,148 solnNodes:0 numNodes before:9,596 numNodes after:536]
+[q9 matchTime:2326.91 enumTime:.00 joinTime:.00 totTime:2326.91 numSolns:1,934,871 solnNodes:0 numNodes before:8,697 numNodes after:548]
+Average running time: 
+[q0 matchTime:282.80 enumTime:.00 joinTime:.00 totTime:282.80]
+[q1 matchTime:25.82 enumTime:.00 joinTime:.00 totTime:25.82]
+[q2 matchTime:2232.44 enumTime:.00 joinTime:.00 totTime:2232.44]
+[q3 matchTime:2382.29 enumTime:.00 joinTime:.00 totTime:2382.29]
+[q4 matchTime:1543.37 enumTime:.00 joinTime:.00 totTime:1543.37]
+[q5 matchTime:700.25 enumTime:.00 joinTime:.00 totTime:700.25]
+[q6 matchTime:1819.76 enumTime:.00 joinTime:.00 totTime:1819.76]
+[q7 matchTime:3168.84 enumTime:.00 joinTime:.00 totTime:3168.84]
+[q8 matchTime:2171.01 enumTime:.00 joinTime:.00 totTime:2171.01]
+[q9 matchTime:2326.91 enumTime:.00 joinTime:.00 totTime:2326.91]
+Data loading Time:36.15
+Index building Time:10.90
+Average Eval Time per run:16653.50
+Average Eval Time per query:1665.35
+Average Matching Time per run:16653.49
+Average Matching Time per query:1665.35
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:8639.70
+Average Nodes after per query:457.20
+Average Soln nodes per query:.00
+Max Used Memory:6764.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb6k.lg
+V:6540401 E:15011260 lbs:4969
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb6k10.qry
+Algorithm:TwigStackD-SSPI-MJ-FLT
+Run 1:
+[q0 matchTime:84.40 enumTime:.00 joinTime:.00 totTime:84.40 numSolns:376,697 solnNodes:0 numNodes before:15,602 numNodes after:529]
+[q1 matchTime:3121.34 enumTime:.00 joinTime:.00 totTime:3121.34 numSolns:2,946,305 solnNodes:0 numNodes before:10,208 numNodes after:641]
+[q2 matchTime:233.03 enumTime:.00 joinTime:.00 totTime:233.03 numSolns:110,407 solnNodes:0 numNodes before:3,298 numNodes after:170]
+[q3 matchTime:1392.10 enumTime:.00 joinTime:.00 totTime:1392.10 numSolns:319,424 solnNodes:0 numNodes before:6,935 numNodes after:381]
+[q4 matchTime:3813.56 enumTime:.00 joinTime:.00 totTime:3813.57 numSolns:6,303,179 solnNodes:0 numNodes before:11,728 numNodes after:710]
+[q5 matchTime:1409.25 enumTime:.00 joinTime:.00 totTime:1409.25 numSolns:1,897,272 solnNodes:0 numNodes before:9,270 numNodes after:473]
+[q6 matchTime:4062.44 enumTime:.00 joinTime:.00 totTime:4062.44 numSolns:7,316,038 solnNodes:0 numNodes before:11,986 numNodes after:745]
+[q7 matchTime:57.85 enumTime:.00 joinTime:.00 totTime:57.85 numSolns:12,015,738 solnNodes:0 numNodes before:12,356 numNodes after:288]
+[q8 matchTime:2401.90 enumTime:.00 joinTime:.00 totTime:2401.90 numSolns:2,336,113 solnNodes:0 numNodes before:9,869 numNodes after:560]
+[q9 matchTime:3438.91 enumTime:.00 joinTime:.00 totTime:3438.91 numSolns:5,703,435 solnNodes:0 numNodes before:12,127 numNodes after:669]
+Average running time: 
+[q0 matchTime:84.40 enumTime:.00 joinTime:.00 totTime:84.40]
+[q1 matchTime:3121.34 enumTime:.00 joinTime:.00 totTime:3121.34]
+[q2 matchTime:233.03 enumTime:.00 joinTime:.00 totTime:233.03]
+[q3 matchTime:1392.10 enumTime:.00 joinTime:.00 totTime:1392.10]
+[q4 matchTime:3813.56 enumTime:.00 joinTime:.00 totTime:3813.57]
+[q5 matchTime:1409.25 enumTime:.00 joinTime:.00 totTime:1409.25]
+[q6 matchTime:4062.44 enumTime:.00 joinTime:.00 totTime:4062.44]
+[q7 matchTime:57.85 enumTime:.00 joinTime:.00 totTime:57.85]
+[q8 matchTime:2401.90 enumTime:.00 joinTime:.00 totTime:2401.90]
+[q9 matchTime:3438.91 enumTime:.00 joinTime:.00 totTime:3438.91]
+Data loading Time:33.37
+Index building Time:4.43
+Average Eval Time per run:20014.78
+Average Eval Time per query:2001.48
+Average Matching Time per run:20014.78
+Average Matching Time per query:2001.48
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:10337.90
+Average Nodes after per query:516.60
+Average Soln nodes per query:.00
+Max Used Memory:9373.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb5k.lg
+V:6540401 E:15011260 lbs:3970
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb5k10.qry
+Algorithm:TwigStackD-SSPI-MJ-FLT
+Run 1:
+[q0 matchTime:2830.64 enumTime:.00 joinTime:.00 totTime:2830.65 numSolns:2,354,059 solnNodes:0 numNodes before:10,135 numNodes after:612]
+[q1 matchTime:6010.80 enumTime:.00 joinTime:.00 totTime:6010.80 numSolns:12,159,978 solnNodes:0 numNodes before:14,703 numNodes after:942]
+[q2 matchTime:3054.16 enumTime:.00 joinTime:.00 totTime:3054.16 numSolns:5,072,805 solnNodes:0 numNodes before:11,173 numNodes after:706]
+[q3 matchTime:3425.91 enumTime:.00 joinTime:.00 totTime:3425.91 numSolns:5,358,816 solnNodes:0 numNodes before:11,760 numNodes after:708]
+[q4 matchTime:1467.98 enumTime:.00 joinTime:.00 totTime:1467.98 numSolns:129,435,289 solnNodes:0 numNodes before:20,234 numNodes after:760]
+[q5 matchTime:4471.90 enumTime:.00 joinTime:.00 totTime:4471.90 numSolns:6,815,927 solnNodes:0 numNodes before:12,678 numNodes after:748]
+[q6 matchTime:6004.41 enumTime:.00 joinTime:.00 totTime:6004.41 numSolns:12,570,602 solnNodes:0 numNodes before:15,305 numNodes after:927]
+[q7 matchTime:5593.78 enumTime:.00 joinTime:.00 totTime:5593.78 numSolns:10,756,518 solnNodes:0 numNodes before:13,658 numNodes after:883]
+[q8 matchTime:6416.66 enumTime:.00 joinTime:.00 totTime:6416.66 numSolns:13,668,110 solnNodes:0 numNodes before:14,152 numNodes after:958]
+[q9 matchTime:3222.45 enumTime:.00 joinTime:.00 totTime:3222.45 numSolns:3,615,206 solnNodes:0 numNodes before:10,690 numNodes after:646]
+Average running time: 
+[q0 matchTime:2830.64 enumTime:.00 joinTime:.00 totTime:2830.65]
+[q1 matchTime:6010.80 enumTime:.00 joinTime:.00 totTime:6010.80]
+[q2 matchTime:3054.16 enumTime:.00 joinTime:.00 totTime:3054.16]
+[q3 matchTime:3425.91 enumTime:.00 joinTime:.00 totTime:3425.91]
+[q4 matchTime:1467.98 enumTime:.00 joinTime:.00 totTime:1467.98]
+[q5 matchTime:4471.90 enumTime:.00 joinTime:.00 totTime:4471.90]
+[q6 matchTime:6004.41 enumTime:.00 joinTime:.00 totTime:6004.41]
+[q7 matchTime:5593.78 enumTime:.00 joinTime:.00 totTime:5593.78]
+[q8 matchTime:6416.66 enumTime:.00 joinTime:.00 totTime:6416.66]
+[q9 matchTime:3222.45 enumTime:.00 joinTime:.00 totTime:3222.45]
+Data loading Time:33.99
+Index building Time:4.58
+Average Eval Time per run:42498.71
+Average Eval Time per query:4249.87
+Average Matching Time per run:42498.69
+Average Matching Time per query:4249.87
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:13448.80
+Average Nodes after per query:789.00
+Average Soln nodes per query:.00
+Max Used Memory:8857.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb10k.lg
+V:6540401 E:15011260 lbs:8343
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb10k10.qry
+Algorithm:TwigStackD-SSPI-mixed-ag-FLT
+Run 1:
+[q0 matchTime:711.13 enumTime:.00 joinTime:.00 totTime:711.13 numSolns:111 solnNodes:0 numNodes before:5,796 numNodes after:306]
+[q1 matchTime:532.33 enumTime:.00 joinTime:.00 totTime:532.33 numSolns:149 solnNodes:0 numNodes before:6,377 numNodes after:365]
+[q2 matchTime:21.08 enumTime:.00 joinTime:.00 totTime:21.08 numSolns:2 solnNodes:0 numNodes before:11,664 numNodes after:141]
+[q3 matchTime:236.38 enumTime:.00 joinTime:.00 totTime:236.38 numSolns:1 solnNodes:0 numNodes before:3,534 numNodes after:209]
+[q4 matchTime:18.99 enumTime:.00 joinTime:.00 totTime:18.99 numSolns:1 solnNodes:0 numNodes before:7,657 numNodes after:187]
+[q5 matchTime:165.59 enumTime:.00 joinTime:.00 totTime:165.59 numSolns:121 solnNodes:0 numNodes before:5,711 numNodes after:273]
+[q6 matchTime:380.19 enumTime:.00 joinTime:.00 totTime:380.19 numSolns:61 solnNodes:0 numNodes before:5,375 numNodes after:344]
+[q7 matchTime:8.83 enumTime:.00 joinTime:.00 totTime:8.83 numSolns:1,558 solnNodes:0 numNodes before:8,505 numNodes after:174]
+[q8 matchTime:279.14 enumTime:.00 joinTime:.00 totTime:279.14 numSolns:122 solnNodes:0 numNodes before:5,330 numNodes after:300]
+[q9 matchTime:439.60 enumTime:.00 joinTime:.00 totTime:439.60 numSolns:73 solnNodes:0 numNodes before:4,327 numNodes after:250]
+Average running time: 
+[q0 matchTime:711.13 enumTime:.00 joinTime:.00 totTime:711.13]
+[q1 matchTime:532.33 enumTime:.00 joinTime:.00 totTime:532.33]
+[q2 matchTime:21.08 enumTime:.00 joinTime:.00 totTime:21.08]
+[q3 matchTime:236.38 enumTime:.00 joinTime:.00 totTime:236.38]
+[q4 matchTime:18.99 enumTime:.00 joinTime:.00 totTime:18.99]
+[q5 matchTime:165.59 enumTime:.00 joinTime:.00 totTime:165.59]
+[q6 matchTime:380.19 enumTime:.00 joinTime:.00 totTime:380.19]
+[q7 matchTime:8.83 enumTime:.00 joinTime:.00 totTime:8.83]
+[q8 matchTime:279.14 enumTime:.00 joinTime:.00 totTime:279.14]
+[q9 matchTime:439.60 enumTime:.00 joinTime:.00 totTime:439.60]
+Data loading Time:33.14
+Index building Time:4.88
+Average Eval Time per run:2793.26
+Average Eval Time per query:279.33
+Average Matching Time per run:2793.26
+Average Matching Time per query:279.33
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:6427.60
+Average Nodes after per query:254.90
+Average Soln nodes per query:.00
+Max Used Memory:8159.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb8k.lg
+V:6540401 E:15011260 lbs:6124
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb8k10.qry
+Algorithm:TwigStackD-SSPI-mixed-ag-FLT
+Run 1:
+[q0 matchTime:485.86 enumTime:.00 joinTime:.00 totTime:485.86 numSolns:59 solnNodes:0 numNodes before:7,300 numNodes after:436]
+[q1 matchTime:163.34 enumTime:.00 joinTime:.00 totTime:163.34 numSolns:55 solnNodes:0 numNodes before:6,725 numNodes after:412]
+[q2 matchTime:13.68 enumTime:.00 joinTime:.00 totTime:13.68 numSolns:144 solnNodes:0 numNodes before:8,557 numNodes after:331]
+[q3 matchTime:1124.94 enumTime:.00 joinTime:.00 totTime:1124.94 numSolns:299 solnNodes:0 numNodes before:8,109 numNodes after:464]
+[q4 matchTime:272.95 enumTime:.00 joinTime:.00 totTime:272.95 numSolns:2 solnNodes:0 numNodes before:7,809 numNodes after:236]
+[q5 matchTime:208.44 enumTime:.00 joinTime:.00 totTime:208.44 numSolns:151 solnNodes:0 numNodes before:5,299 numNodes after:245]
+[q6 matchTime:100.40 enumTime:.00 joinTime:.00 totTime:100.40 numSolns:26 solnNodes:0 numNodes before:5,125 numNodes after:286]
+[q7 matchTime:1143.85 enumTime:.00 joinTime:.00 totTime:1143.85 numSolns:1 solnNodes:0 numNodes before:9,409 numNodes after:556]
+[q8 matchTime:97.55 enumTime:.00 joinTime:.00 totTime:97.55 numSolns:41 solnNodes:0 numNodes before:5,247 numNodes after:280]
+[q9 matchTime:1155.58 enumTime:.00 joinTime:.00 totTime:1155.58 numSolns:156 solnNodes:0 numNodes before:9,465 numNodes after:535]
+Average running time: 
+[q0 matchTime:485.86 enumTime:.00 joinTime:.00 totTime:485.86]
+[q1 matchTime:163.34 enumTime:.00 joinTime:.00 totTime:163.34]
+[q2 matchTime:13.68 enumTime:.00 joinTime:.00 totTime:13.68]
+[q3 matchTime:1124.94 enumTime:.00 joinTime:.00 totTime:1124.94]
+[q4 matchTime:272.95 enumTime:.00 joinTime:.00 totTime:272.95]
+[q5 matchTime:208.44 enumTime:.00 joinTime:.00 totTime:208.44]
+[q6 matchTime:100.40 enumTime:.00 joinTime:.00 totTime:100.40]
+[q7 matchTime:1143.85 enumTime:.00 joinTime:.00 totTime:1143.85]
+[q8 matchTime:97.55 enumTime:.00 joinTime:.00 totTime:97.55]
+[q9 matchTime:1155.58 enumTime:.00 joinTime:.00 totTime:1155.58]
+Data loading Time:33.06
+Index building Time:4.74
+Average Eval Time per run:4766.60
+Average Eval Time per query:476.66
+Average Matching Time per run:4766.60
+Average Matching Time per query:476.66
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:7304.50
+Average Nodes after per query:378.10
+Average Soln nodes per query:.00
+Max Used Memory:6747.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb7k.lg
+V:6540401 E:15011260 lbs:5662
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb7k10.qry
+Algorithm:TwigStackD-SSPI-mixed-ag-FLT
+Run 1:
+[q0 matchTime:75.14 enumTime:.00 joinTime:.00 totTime:75.14 numSolns:48 solnNodes:0 numNodes before:5,473 numNodes after:249]
+[q1 matchTime:26.33 enumTime:.00 joinTime:.00 totTime:26.33 numSolns:15,288 solnNodes:0 numNodes before:10,871 numNodes after:289]
+[q2 matchTime:1456.28 enumTime:.00 joinTime:.00 totTime:1456.28 numSolns:324 solnNodes:0 numNodes before:10,178 numNodes after:556]
+[q3 matchTime:1086.71 enumTime:.00 joinTime:.00 totTime:1086.71 numSolns:215 solnNodes:0 numNodes before:9,131 numNodes after:545]
+[q4 matchTime:845.06 enumTime:.00 joinTime:.00 totTime:845.06 numSolns:401 solnNodes:0 numNodes before:7,695 numNodes after:428]
+[q5 matchTime:211.28 enumTime:.00 joinTime:.00 totTime:211.28 numSolns:61 solnNodes:0 numNodes before:6,248 numNodes after:304]
+[q6 matchTime:918.85 enumTime:.00 joinTime:.00 totTime:918.85 numSolns:282 solnNodes:0 numNodes before:8,715 numNodes after:508]
+[q7 matchTime:1147.64 enumTime:.00 joinTime:.00 totTime:1147.64 numSolns:1,288 solnNodes:0 numNodes before:9,793 numNodes after:609]
+[q8 matchTime:837.00 enumTime:.00 joinTime:.00 totTime:837.00 numSolns:292 solnNodes:0 numNodes before:9,596 numNodes after:536]
+[q9 matchTime:1873.42 enumTime:.00 joinTime:.00 totTime:1873.42 numSolns:392 solnNodes:0 numNodes before:8,697 numNodes after:548]
+Average running time: 
+[q0 matchTime:75.14 enumTime:.00 joinTime:.00 totTime:75.14]
+[q1 matchTime:26.33 enumTime:.00 joinTime:.00 totTime:26.33]
+[q2 matchTime:1456.28 enumTime:.00 joinTime:.00 totTime:1456.28]
+[q3 matchTime:1086.71 enumTime:.00 joinTime:.00 totTime:1086.71]
+[q4 matchTime:845.06 enumTime:.00 joinTime:.00 totTime:845.06]
+[q5 matchTime:211.28 enumTime:.00 joinTime:.00 totTime:211.28]
+[q6 matchTime:918.85 enumTime:.00 joinTime:.00 totTime:918.85]
+[q7 matchTime:1147.64 enumTime:.00 joinTime:.00 totTime:1147.64]
+[q8 matchTime:837.00 enumTime:.00 joinTime:.00 totTime:837.00]
+[q9 matchTime:1873.42 enumTime:.00 joinTime:.00 totTime:1873.42]
+Data loading Time:31.66
+Index building Time:4.73
+Average Eval Time per run:8477.71
+Average Eval Time per query:847.77
+Average Matching Time per run:8477.71
+Average Matching Time per query:847.77
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:8639.70
+Average Nodes after per query:457.20
+Average Soln nodes per query:.00
+Max Used Memory:7334.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb6k.lg
+V:6540401 E:15011260 lbs:4969
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb6k10.qry
+Algorithm:TwigStackD-SSPI-mixed-ag-FLT
+Run 1:
+[q0 matchTime:50.41 enumTime:.00 joinTime:.00 totTime:50.41 numSolns:1 solnNodes:0 numNodes before:15,602 numNodes after:529]
+[q1 matchTime:705.06 enumTime:.00 joinTime:.00 totTime:705.06 numSolns:241 solnNodes:0 numNodes before:10,208 numNodes after:641]
+[q2 matchTime:159.76 enumTime:.00 joinTime:.00 totTime:159.76 numSolns:67 solnNodes:0 numNodes before:3,298 numNodes after:170]
+[q3 matchTime:129.15 enumTime:.00 joinTime:.00 totTime:129.15 numSolns:14 solnNodes:0 numNodes before:6,935 numNodes after:381]
+[q4 matchTime:2077.53 enumTime:.00 joinTime:.00 totTime:2077.53 numSolns:764 solnNodes:0 numNodes before:11,728 numNodes after:710]
+[q5 matchTime:830.09 enumTime:.00 joinTime:.00 totTime:830.09 numSolns:345 solnNodes:0 numNodes before:9,270 numNodes after:473]
+[q6 matchTime:1708.68 enumTime:.00 joinTime:.00 totTime:1708.68 numSolns:150 solnNodes:0 numNodes before:11,986 numNodes after:745]
+[q7 matchTime:39.14 enumTime:.00 joinTime:.00 totTime:39.14 numSolns:5,546 solnNodes:0 numNodes before:12,356 numNodes after:288]
+[q8 matchTime:542.93 enumTime:.00 joinTime:.00 totTime:542.93 numSolns:121 solnNodes:0 numNodes before:9,869 numNodes after:560]
+[q9 matchTime:1783.11 enumTime:.00 joinTime:.00 totTime:1783.11 numSolns:360 solnNodes:0 numNodes before:12,127 numNodes after:669]
+Average running time: 
+[q0 matchTime:50.41 enumTime:.00 joinTime:.00 totTime:50.41]
+[q1 matchTime:705.06 enumTime:.00 joinTime:.00 totTime:705.06]
+[q2 matchTime:159.76 enumTime:.00 joinTime:.00 totTime:159.76]
+[q3 matchTime:129.15 enumTime:.00 joinTime:.00 totTime:129.15]
+[q4 matchTime:2077.53 enumTime:.00 joinTime:.00 totTime:2077.53]
+[q5 matchTime:830.09 enumTime:.00 joinTime:.00 totTime:830.09]
+[q6 matchTime:1708.68 enumTime:.00 joinTime:.00 totTime:1708.68]
+[q7 matchTime:39.14 enumTime:.00 joinTime:.00 totTime:39.14]
+[q8 matchTime:542.93 enumTime:.00 joinTime:.00 totTime:542.93]
+[q9 matchTime:1783.11 enumTime:.00 joinTime:.00 totTime:1783.11]
+Data loading Time:33.05
+Index building Time:4.85
+Average Eval Time per run:8025.85
+Average Eval Time per query:802.59
+Average Matching Time per run:8025.85
+Average Matching Time per query:802.59
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:10337.90
+Average Nodes after per query:516.60
+Average Soln nodes per query:.00
+Max Used Memory:7159.00 MB
+
+***********************************
+Dataset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb5k.lg
+V:6540401 E:15011260 lbs:3970
+Queryset://home//xiaoying//work//experiments//TwigOnDag//input//cite_lb5k10.qry
+Algorithm:TwigStackD-SSPI-mixed-ag-FLT
+Run 1:
+[q0 matchTime:466.84 enumTime:.00 joinTime:.00 totTime:466.84 numSolns:151 solnNodes:0 numNodes before:10,135 numNodes after:612]
+[q1 matchTime:3174.95 enumTime:.00 joinTime:.00 totTime:3174.95 numSolns:868 solnNodes:0 numNodes before:14,703 numNodes after:942]
+[q2 matchTime:2031.85 enumTime:.00 joinTime:.00 totTime:2031.85 numSolns:760 solnNodes:0 numNodes before:11,173 numNodes after:706]
+[q3 matchTime:960.38 enumTime:.00 joinTime:.00 totTime:960.38 numSolns:307 solnNodes:0 numNodes before:11,760 numNodes after:708]
+[q4 matchTime:1442.21 enumTime:.00 joinTime:.00 totTime:1442.21 numSolns:227 solnNodes:0 numNodes before:20,234 numNodes after:760]
+[q5 matchTime:3029.15 enumTime:.00 joinTime:.00 totTime:3029.15 numSolns:465 solnNodes:0 numNodes before:12,678 numNodes after:748]
+[q6 matchTime:3217.81 enumTime:.00 joinTime:.00 totTime:3217.81 numSolns:1,357 solnNodes:0 numNodes before:15,305 numNodes after:927]
+[q7 matchTime:3212.65 enumTime:.00 joinTime:.00 totTime:3212.65 numSolns:448 solnNodes:0 numNodes before:13,658 numNodes after:883]
+[q8 matchTime:3613.43 enumTime:.00 joinTime:.00 totTime:3613.43 numSolns:955 solnNodes:0 numNodes before:14,152 numNodes after:958]
+[q9 matchTime:2030.93 enumTime:.00 joinTime:.00 totTime:2030.93 numSolns:291 solnNodes:0 numNodes before:10,690 numNodes after:646]
+Average running time: 
+[q0 matchTime:466.84 enumTime:.00 joinTime:.00 totTime:466.84]
+[q1 matchTime:3174.95 enumTime:.00 joinTime:.00 totTime:3174.95]
+[q2 matchTime:2031.85 enumTime:.00 joinTime:.00 totTime:2031.85]
+[q3 matchTime:960.38 enumTime:.00 joinTime:.00 totTime:960.38]
+[q4 matchTime:1442.21 enumTime:.00 joinTime:.00 totTime:1442.21]
+[q5 matchTime:3029.15 enumTime:.00 joinTime:.00 totTime:3029.15]
+[q6 matchTime:3217.81 enumTime:.00 joinTime:.00 totTime:3217.81]
+[q7 matchTime:3212.65 enumTime:.00 joinTime:.00 totTime:3212.65]
+[q8 matchTime:3613.43 enumTime:.00 joinTime:.00 totTime:3613.43]
+[q9 matchTime:2030.93 enumTime:.00 joinTime:.00 totTime:2030.93]
+Data loading Time:32.84
+Index building Time:4.54
+Average Eval Time per run:23180.21
+Average Eval Time per query:2318.02
+Average Matching Time per run:23180.21
+Average Matching Time per query:2318.02
+Average Join Time per run:.00
+Average Join Time per query:.00
+Average Nodes before per query:13448.80
+Average Nodes after per query:789.00
+Average Soln nodes per query:.00
+Max Used Memory:7815.00 MB
+
